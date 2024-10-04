@@ -1,0 +1,43 @@
+web jkt48 member
+
+
+page 1
+introduction jkt48
+
+page 2
+table member 
+per 4 orang
+gambar, nama_asli, nama panggilan, generasi, kelahiran, ttl
+
+page 3
+table member
+dibawahnya ada tombol pilihan   edit profil  atau hapus
+
+
+
+
+
+1.bikin page intro
+
+navbar : JKT48                       member
+main : sejarah singkat    
+footer
+
+
+2.page 2
+navbar :search member
+
+nama2 member 
+
+
+
+
+
+
+
+
+
+
+
+
+
